@@ -3,7 +3,6 @@ import 'package:chat_zz/screens/login_screen.dart';
 import 'package:chat_zz/screens/registration_screen.dart';
 import 'package:chat_zz/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
-
 void main() => runApp(FlashChat());
 
 class FlashChat extends StatelessWidget {
